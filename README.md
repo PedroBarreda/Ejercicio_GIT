@@ -1,0 +1,26 @@
+# Titulo nivel 1
+## Titulo nivel 2
+### Titulo nivel 3
+#### Titulo nivel 4
+##### Titulo nivel 5
+Texto normal
+**Texto en negritas**
+*Texto en cursivas*
+***Texto en negrita y cursiva***
+~~Texto tachado~~
+
+Listas o Menus
++ Elemento 1
++ Elemento 2
+  + SubElemento 2.1
+  + SubElemento 2.2
+  + SubElemento 2.3
++ Elemento 3
++ Elemento 4
+
+Lista Numerada
+1. Opción 1
+2. Opción 2
+3. Opción 3
+
+[Página de GitHub](https://github.com)
