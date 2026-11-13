@@ -31,3 +31,14 @@ Console.WriteLine("Hola Mundo");
 int suma = 10 + 20;
 Console.WriteLine($"La suma es: {suma}");
 ```
+|Nombre | Edad | Lenguaje |
+|-------|------|----------|
+|Ana    | 25   |C#        |
+|Juan   | 30   |Python    |
+|Luis   | 28   |Java      |
+
+Emojis por Nombre
+Yo amo Markdown :smile: :rocket: :coffee:
+
+Sintaxis básica de redacción y formato
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
