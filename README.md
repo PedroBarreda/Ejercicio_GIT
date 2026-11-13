@@ -24,3 +24,10 @@ Lista Numerada
 3. Opción 3
 
 [Página de GitHub](https://github.com)
+![Texto alternativo](https://www.santevet.es/wp-content/uploads/2024/02/gatocomuneuropeo-97.jpg)
+
+```csharp
+Console.WriteLine("Hola Mundo");
+int suma = 10 + 20;
+Console.WriteLine($"La suma es: {suma}");
+```
